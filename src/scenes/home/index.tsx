@@ -75,7 +75,7 @@ export const Home = ({ setSelectedPage }: Props) => {
           <img src={HomePageGraphic} alt="home-page-graphic" />
         </div>
       </motion.div>
-      {/* sponsors */}
+      {/* sponsors  */}
       {isAboveMediumScreens && (
         <div className="h-[150px] w-full bg-primary-100 py-10">
           <div className="mx-auto w-5/6">
